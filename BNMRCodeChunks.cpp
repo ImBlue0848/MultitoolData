@@ -5,3 +5,5 @@ gorillaPlayer->GetLocalTransform()->SetLocalScale(Vector3(1.5f, 1.5f, 1.5f));
 //if youre on an older version of BNMResolve, this will change the scale of the GorillaPlayer up, giving you longer arms.
 //however, if youre on a newer version of BNMResolve and its missing arguments, replace the setlocalscale with:
 //SetLocalScale(Vector3(1.5f, 1.5f, 1.5f), 0.0f, 0.0f)
+
+askhfbaksfbaksf
