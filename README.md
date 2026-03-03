@@ -1,2 +1,3 @@
 # MultitoolData
-This is for pulling raw json data for the modding multitool.
+
+this is just for pulling raw data like c++ chunks and modding tools
